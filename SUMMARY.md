@@ -5,3 +5,6 @@
       * [Authentication](Controller Access Kubernetes API/Authentication.md)
       * [Authorization](Controller Access Kubernetes API/Authorization.md)
       * [Admission Control](Controller Access Kubernetes API/Admission Control.md)
+
+- [扩展Kubernetes]()
+  - [Custom Resource](Extending Kubernetes/CustomResource.md)
